@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 
+import com.invoke.proc.configuration.DataDao;
+
 @EnableAutoConfiguration
 @ComponentScan
 @SpringBootApplication
