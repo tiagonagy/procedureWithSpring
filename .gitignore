@@ -1,0 +1,31 @@
+target
+*/META-INF/*
+!.mvn/wrapper/maven-wrapper.jar
+bin
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VSCode ###
+.vscode
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+src/main/java/com/b2wdigital/horacius/soap/
+src/main/java/META-INF/sun-jaxb.episode
